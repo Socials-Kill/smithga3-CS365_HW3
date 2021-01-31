@@ -1,6 +1,7 @@
 # smithga3-CS365_HW3
 
 For "noErrorHandling.py" 
+
 Input: an integer input
 
 Output: Whether that input is a leap year or not
